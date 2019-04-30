@@ -26,3 +26,5 @@ Install the dependencies
 - To run the registration using SIFT feature matching run `python sift.py`. The results will be saved in the folders with _sift
 - To run the registration using HOUGH feature matching run `python hough.py`. The results will be saved in the folders with _hough
 - The folders named results and uncropped are the final outputs after registration.
+
+To know more about how the project works go through this [article](https://medium.com/@aswinvb/how-to-perform-thermal-to-visible-image-registration-c18a34894866)
